@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MichalJanosik
+- 👀 I’m interested in front-end, full-stack web developement
+- 🌱 I’m currently learning HTML/CSS, JS, PHP
+- 💞️ I’m looking to collaborate on projects that will help me develop skills
+- 📫 How to reach me: janosik.michal.jm@gmail.com
